@@ -24,7 +24,10 @@ Performance Extremes: Significant disparities exist between top-tier hubs (US) a
 Top Performers: Identified high-valuation outliers like CruxWare (peaking at $2,405.16 million USD post-money valuation), setting benchmarks for market capitalization.
 
 Visualizations
-(Insert your Tableau Dashboard images below)
+Picture1.png
+Picture2.png
+Picture3.png
+
 
 1. Geographic Funding Distribution
 2. Sector Diversity Treemap
