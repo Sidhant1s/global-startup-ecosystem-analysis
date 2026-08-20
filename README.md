@@ -1,2 +1,49 @@
-# global-startup-ecosystem-analysis
-An end-to-end data analytics project evaluating global startup ecosystems using multi-table SQL queries, relational database management (PostgreSQL/DBeaver), and interactive Tableau dashboards to uncover key funding metrics, geographic hubs, and sector trends.
+Global Startup Ecosystem Analysis
+Project Overview
+This project provides a comprehensive data-driven evaluation of the global startup ecosystem. By analyzing funding trends, geographic distributions, and sector-specific performance, this case study uncovers actionable insights for investors and stakeholders.
+
+Business Problem
+Venture capital firms and startup founders need a data-driven evaluation of the global startup ecosystem to identify high-performing geographic markets, thriving industry sectors, and key investment drivers. This analysis addresses the lack of visibility into capital concentration and regional performance disparities.
+
+Methodology & Data Framework
+Data Source & Reliability: The dataset follows the ROCC framework (Reliable, Original, Comprehensive, Current, and Cited) sourced from Kaggle.
+
+License: Released under the CC0: Public Domain license, permitting free use, modification, and distribution for research and portfolio development.
+
+Data Preparation: Cleaned and processed multi-table relational datasets (startups.csv, funding_rounds.csv, investors.csv, quarterly_summary.csv).
+
+Data Analysis: Performed complex SQL joins, aggregations (COUNT, MAX), grouping, and sorting using PostgreSQL and DBeaver.
+
+Data Visualization: Developed interactive Tableau dashboards to map regional performance, sector diversity, and capital inflow.
+
+Key Findings
+Regional Dominance: The United States leads globally in capital accumulation, investor engagement, and sector diversity.
+
+Performance Extremes: Significant disparities exist between top-tier hubs (US) and emerging markets (Bangladesh), indicating the need for localized research.
+
+Top Performers: Identified high-valuation outliers like CruxWare (peaking at $2,405.16 million USD post-money valuation), setting benchmarks for market capitalization.
+
+Visualizations
+(Insert your Tableau Dashboard images below)
+
+1. Geographic Funding Distribution
+2. Sector Diversity Treemap
+3. Investor & Sector Breakdown
+Recommendations
+Prioritize High-Value Markets: Focus core venture capital and expansion resources on established, high-performing hubs like the United States.
+
+Conduct Localized Research: Initiate qualitative local surveys and discovery initiatives in underrepresented regions (such as Bangladesh) to identify niche opportunities.
+
+Strategic Diversification: Balance investment portfolios across established high-growth sectors and emerging regional domains.
+
+Tools & Technologies
+SQL (PostgreSQL / DBeaver): Data querying, relational table joins, and aggregation.
+
+Tableau: Visual storytelling, interactive filtering, and dashboard design.
+
+Excel: Initial data exploration and cleaning workflows.
+
+License
+This project is open-source and available under the CC0 1.0 Universal (Public Domain Dedication) license. You are free to copy, modify, and distribute this work without restriction.
+
+Created by Sidhant Negi
