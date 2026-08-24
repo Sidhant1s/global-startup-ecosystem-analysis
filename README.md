@@ -42,5 +42,10 @@ Venture capital firms and startup founders need a data-driven evaluation of the 
 - **Tableau:** Visual storytelling, interactive filtering, and dashboard design.
 - **Excel:** Initial data exploration and cleaning workflows.
 
+## Data Model
+The analysis uses a relational structure connecting funding rounds with startup and geographic data:
+
+![Data Model](images/data_model.png)
+
 ---
 *Created by Sidhant Negi*
