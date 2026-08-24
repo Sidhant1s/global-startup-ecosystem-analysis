@@ -24,14 +24,13 @@ Venture capital firms and startup founders need a data-driven evaluation of the 
 ## Visualizations
 
 ### 1. Geographic Funding Distribution
- ![Geographic Dashboard](Picture1.png)
-
+![Geographic Dashboard](images/Picture1.png)
 
 ### 2. Sector Diversity Treemap
-   ![Sector Treemap](Picture2.png)
+   ![Sector Treemap](images/Picture2.png)
 
 ### 3. Investor & Sector Breakdown
-   ![Investor Analysis](Picture3.png)
+ ![Investor Analysis](images/Picture3.png)
 
 ## Recommendations
 1. **Prioritize High-Value Markets:** Focus core venture capital and expansion resources on established, high-performing hubs like the United States.
